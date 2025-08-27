@@ -28,7 +28,7 @@ If you want the **full bot** with all commands and features, it is also availabl
 
 ## 🏁 Getting Started
 
-Follow the steps below to run the BocchiBOT base locally.
+Follow the steps below to run the BOT base locally.
 
 ### Prerequisites
 
