@@ -1,0 +1,34 @@
+{
+  "name": "basebocchibot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot written in JavaScript using Discord.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord bot",
+    "discord.js",
+    "javascript",
+    "nodejs",
+    "base",
+    "botbase",
+    "basebot",
+    "basebocchibot"
+  ],
+  "author": "Kz",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1",
+    "mongodb": "^6.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EoKz/BaseDiscordBot.git"
+  },
+  "homepage": "https://github.com/EoKz/BaseDiscordBot.git"
+}
