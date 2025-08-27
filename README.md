@@ -78,7 +78,7 @@ npm install
 
 ``LOG_LEVEL=`` **Log level that will appear >** ``debug`` or ``info``
 
-5. **Run the bot (certifique se de que fez o passo 4 corretamente)**
+5. **Run the bot (make sure you completed step 4 correctly)**
 
   ```bash
   npm start
