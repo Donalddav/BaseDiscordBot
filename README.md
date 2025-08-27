@@ -41,7 +41,7 @@ Follow the steps below to run the BOT base locally.
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/EoKz/BocchiBOT-discord.git 
+git clone https://github.com/EoKz/BaseDiscordBot.git 
 ```
 2. **Install NPM packages (inside the bot folder)**
 
