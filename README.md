@@ -22,7 +22,7 @@ The base bot already works with the **ping command**.
 
 If you want the **full bot** with all commands and features, it is also available:  
 
-🔗 [Official BocchiBOT Repository](https://github.com/EoKz/BocchiBOT-discord)  
+🔗 [Official BocchiBOT Repository](https://github.com/EoKz/BocchiDiscordBot)  
 
 ---
 
